@@ -10,12 +10,12 @@ DATASETS = {
 		'test_source_root': dataset_paths['celeba_test'],
 		'test_target_root': dataset_paths['celeba_test']
 	},
-	'meatfaces': {
+	'metfaces': {
 		'transforms': transforms_config.EncodeTransforms,
-		'train_source_root': dataset_paths['meatfaces_train'],
-		'train_target_root': dataset_paths['meatfaces_train'],
-		'test_source_root': dataset_paths['meatfaces_test'],
-		'test_target_root': dataset_paths['meatfaces_test']
+		'train_source_root': dataset_paths['metfaces_train'],
+		'train_target_root': dataset_paths['metfaces_train'],
+		'test_source_root': dataset_paths['metfaces_test'],
+		'test_target_root': dataset_paths['metfaces_test']
 	},
 	"cars_encode": {
 		'transforms': transforms_config.CarsEncodeTransforms,
