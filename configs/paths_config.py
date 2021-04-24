@@ -33,5 +33,5 @@ model_paths = {
 	'mtcnn_rnet': 'pretrained_models/mtcnn/rnet.npy',
 	'mtcnn_onet': 'pretrained_models/mtcnn/onet.npy',
 	'moco': 'pretrained_models/moco_v2_800ep_pretrain.pth.tar',
-	'metfaces': '/content/drive/Shareddrives/virtual/ReStyle_PsP_pt/metfaces-200000.pt',	
+	'metfaces': '/content/drive/Shareddrives/virtual/ReStyle_PsP_pt/metfaces-200000.pt'	
 }
