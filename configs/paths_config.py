@@ -2,6 +2,9 @@ dataset_paths = {
 	'ffhq': '',
 	'celeba_test': '',
 
+	'meatfaces_train': '',
+	'meatfaces_test': '',
+
 	'cars_train': '',
 	'cars_test': '',
 
