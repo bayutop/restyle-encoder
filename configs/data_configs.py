@@ -10,7 +10,7 @@ DATASETS = {
 		'test_source_root': dataset_paths['celeba_test'],
 		'test_target_root': dataset_paths['celeba_test']
 	},
-		'meatfaces': {
+	'meatfaces': {
 		'transforms': transforms_config.EncodeTransforms,
 		'train_source_root': dataset_paths['meatfaces_train'],
 		'train_target_root': dataset_paths['meatfaces_train'],
