@@ -2,8 +2,8 @@ dataset_paths = {
 	'ffhq': '',
 	'celeba_test': '',
 
-	'meatfaces_train': '',
-	'meatfaces_test': '',
+	'metfaces_train': '',
+	'metfaces_test': '',
 
 	'cars_train': '',
 	'cars_test': '',
@@ -32,5 +32,6 @@ model_paths = {
 	'mtcnn_pnet': 'pretrained_models/mtcnn/pnet.npy',
 	'mtcnn_rnet': 'pretrained_models/mtcnn/rnet.npy',
 	'mtcnn_onet': 'pretrained_models/mtcnn/onet.npy',
-	'moco': 'pretrained_models/moco_v2_800ep_pretrain.pth.tar'
+	'moco': 'pretrained_models/moco_v2_800ep_pretrain.pth.tar',
+	'metfaces': '/content/drive/Shareddrives/virtual/ReStyle_PsP_pt/metfaces-200000.pt',	
 }
