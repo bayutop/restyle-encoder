@@ -1,21 +1,8 @@
 dataset_paths = {
 	'ffhq': '',
 	'celeba_test': '',
-
-	'metfaces_train': '',
-	'metfaces_test': '',
-
 	'cars_train': '',
 	'cars_test': '',
-
-	'church_train': '',
-	'church_test': '',
-
-	'horse_train': '',
-	'horse_test': '',
-
-	'afhq_wild_train': '',
-	'afhq_wild_test': ''
 }
 
 model_paths = {
